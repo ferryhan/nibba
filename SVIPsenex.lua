@@ -35,7 +35,7 @@ function startBypass()
   end
 end
 startBypass()
-gg.alert(os.date("Today: %Y/%m/%d Time: %H:%M:%S\nScript will work to n̶e̶v̶e̶r̶ (Lifetime subscription) \n Beta of sVIP script (version 0.2) \n\n\n Script maked by @senex_seller"))
+gg.alert(os.date("Today: %Y/%m/%d Time: %H:%M:%S\nScript will work to n̶e̶v̶e̶r̶ (Lifetime subscription) \n DanaBot of VIP script (version 0.2) \n\n\n Script maked by @ferryhan88"))
 gg.toast("t.me/senex_community")
 print("Script successfully ended!")
 function language()
@@ -45,7 +45,7 @@ function language()
     "🇨🇳 中国 (disabled) 🇨🇳",
     "🇮🇩 ʙᴀʜᴀsᴀ ɪɴᴅᴏɴᴇsɪᴀ (disabled) 🇮🇩",
     "          ❓ FAQ - Click here,  if you need support ❓"
-  }, nil, "ᴘʟᴇᴀsᴇ, ᴄʜᴏᴏsᴇ ʏᴏᴜʀ ʟᴀɴɢᴜᴀɢᴇ ( ͡° ͜ʖ ͡°)")
+  }, nil, "ғerryhan88( ͡° ͜ʖ ͡°)")
   if AB == 1 then
     HOME()
   end
@@ -65,12 +65,12 @@ end
 HOME = 1
 function HOME()
   SG = gg.choice({
-    "💚 ɴᴏ ʙ-ᴍᴇᴍᴏʀʏ ᴍᴇɴᴜ 💚 \n\n「No B-memory functions works on all devices, including all mobiles and emulators」\n",
-    "❤ ʙ-ᴍᴇᴍᴏʀʏ ᴍᴇɴᴜ ❤ \n\n 「B-memory functions works only on mobiles with processor Snapdragon」\n",
+    "💚 ɴ ғerryhan88ᴜ 💚 \n\n「No B-memory functions works on all devices, including all mobiles and emulators」\n",
+    "❤ ʙ-ғerryhan88ᴜ ❤ \n\n 「B-memory functions works only on mobiles with processor Snapdragon」\n",
     "🌎 Choose language 🌎\n",
     "⚠️ Bypass 「At first game logo」⚠️ ",
-    "\n                                      ɪ ᴅᴏɴᴛ ᴋɴᴏᴡ,  ɪ ᴡᴀɴᴛ ᴛᴏ ᴇxɪᴛ"
-  }, nil, "Ｈｅｌｌｏ， ｗｅｌｃｏｍｅ  ｔｏ  ｍｙ  ｓｕｐｅｒｖｉｐ  ｓｃｒｉｐｔ\nʕ•ᴥ•ʔʕ•ᴥ•ʔ ʕ•ᴥ•ʔʕ•ᴥ•ʔ ʕ•ᴥ•ʔʕ•ᴥ•ʔ ʕ•ᴥ•ʔʕ•ᴥ•ʔ ʕ•ᴥ•ʔʕ•ᴥ•ʔ ʕ•ᴥ•ʔʕ•ᴥ•ʔʕ•ᴥ•ʔ")
+    "\n                                      ғerryhan88,  DanaBot"
+  }, nil, "Ｈｅｌｌｏ， ｗｅｌｃｏｍｅ  ｔｏ  ｍｙ  ｓｕｐｅｒｖｉｐ  ｓｃｒｉｐｔ\nʕ•ᴥ•ʔʕ•ᴥ•ʔ ʕ•ᴥ•ʔʕ•ᴥ•ʔDanaBotʕ•ᴥ•ʔʕ•ᴥ•ʔ ʕ•ᴥ•ʔʕ•ᴥ•ʔ ʕ•ᴥ•ʔʕ•ᴥ•ʔ ʕ•ᴥ•ʔʕ•ᴥ•ʔʕ•ᴥ•ʔ")
   if SG == 1 then
     englishnob()
   end
@@ -219,7 +219,7 @@ This function activate body color (white/black).
     "🍗 White",
     "🍗 Black",
     "               ↶ Exit "
-  }, nil, "ɴᴏ ʙ ᴍᴇᴍᴏʀʏ ʙᴏᴅʏ ᴄᴏʟᴏʀ ᴍᴇɴᴜ")
+  }, nil, "ɴᴏ ʙ ᴍᴇᴍᴏʀʏ DanaBot ᴄᴏʟᴏʀ ᴍᴇɴᴜ")
   if SM == 1 then
     whitenn()
   end
@@ -245,7 +245,7 @@ This function activate aimbot.
     "🍗 Aimlock (auto aim after one hit)",
     "🍗 80% Headshot (test)",
     "↶ Back"
-  }, nil, "ᴍᴇɴᴜ ᴏғ ᴀɪᴍʙᴏᴛs")
+  }, nil, "ᴍᴇɴᴜ ғerryhan88 ᴀɪᴍʙ")
   if AM == 1 then
     AKM1()
   end
@@ -2667,7 +2667,7 @@ Good day! If you came here, then you need support.
  MORE INFO IN FUTURE UPDATES]])
 end
 function EXIT()
-print('hi my name is Luci* and i disguised as Senex')
+print('hi my name is ғerryhan and i disguised as Senex')
 print('thanks for buying this copy paste script')
 print('i scam 500$')
 print('and im also gay')
