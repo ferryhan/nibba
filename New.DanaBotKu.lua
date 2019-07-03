@@ -15,7 +15,7 @@ FIRST = gg.choice({
     "[12]️ ➤ [CHANGELOG]",
     "[13]️ ➤ [DEVELOPERS]",
     "[14] ➤ [EXIT]"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if FIRST == 1 then SELECTBYPASS() end
 if FIRST == 2 then BESTMENU() end
@@ -77,7 +77,7 @@ WHCOLOR = gg.multiChoice({
     "[22] ➤ Snapdragon 835/845 V1",
     "[23] ➤ Snapdragon 835/845 V2",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if WHCOLOR == nil then
 else
@@ -147,7 +147,7 @@ BCALL = gg.multiChoice({
     "[30] ➤ Glossy RGB",
     "[31] ➤ Emerald",
     "____ || ﹤ BACK ﹥ || ____"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if BCALL == nil then
 else
@@ -209,7 +209,7 @@ BCHDR = gg.multiChoice({
     "[14] ➤ Red V2",
     "[15] ➤ Green",
     "____ || ﹤ BACK ﹥ || ____"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if BCHDR == nil then
 else
@@ -252,7 +252,7 @@ MENUALT = gg.multiChoice({
     "[11] ➤ Alternative V11",
     "[12] ➤ Alternative V12",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if MENUALT == nil then
 else
@@ -285,7 +285,7 @@ MENUUNV = gg.multiChoice({
     "[4] ➤ Full Body Snapdragon",
     "[5] ➤ Emulator Wallhack (MT)",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if MENUUNV == nil then
 else
@@ -323,7 +323,7 @@ BESTM = gg.multiChoice({
     "[17] ➤ Black Sky\n↪ 「Ingame」「Landed」「Everymatch」",
     "[18] ➤ Quick Change Weapon\n↪ 「Ingame」「Landed」「Everymatch」",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if BESTM == nil then
 else
@@ -363,7 +363,7 @@ CRITM = gg.multiChoice({
     "[6] ➤ Aimbot + Headshoot 50%\n↪ 「Ingame」「Landed」「Everymatch」",
     "[7] ➤ Aimbot + Headshoot 30%\n↪ 「Ingame」「Landed」「Everymatch」",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if CRITM == nil then
 else
@@ -393,7 +393,7 @@ HSM = gg.multiChoice({
     "[6] ➤ Headshoot 50%\n↪ 「Ingame」「Landed」「Everymatch」",
     "[7] ➤ Headshoot 30%\n↪ 「Ingame」「Landed」「Everymatch」",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if HSM == nil then
 else
@@ -427,7 +427,7 @@ HM2 = gg.multiChoice({
     "[10] ➤ Aimbot Sniper\n↪ 「Ingame」「Landed」「Everymatch」",
     "[11] ➤ Aimlock AWM\n↪ 「Ingame」「Landed」「Everymatch」",    
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if HM2 == nil then
 else
@@ -462,7 +462,7 @@ HM3 = gg.multiChoice({
     "[6] ➤ Antenna Always Standby\n↪ 「Ingame」「Landed」「Everymatch」",
     "[7] ➤ Antenna Scarce Item\n↪ 「Ingame」「Landed」「Everymatch」",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if HM3 == nil then
 else
@@ -510,7 +510,7 @@ HM4 = gg.multiChoice({
     "[24] ➤ Speedhack Medium\n↪ 「Lobby」「Landed」「Once」",
     "[25] ➤ Speedhack Hard\n↪ 「Lobby」「Landed」「Once」",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if HM4 == nil then
 else
@@ -577,7 +577,7 @@ HM5 = gg.multiChoice({
     "[25] ➤ Zoom X20\n↪ 「Ingame」「Landed」「Everymatch」",
     "[26] ➤ Zoom X20 Remove\n↪ 「Ingame」「Landed」「Everymatch」",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if HM5 == nil then
 else
@@ -627,7 +627,7 @@ HM6 = gg.multiChoice({
     "[7] ➤ Violet Land Color\n↪ 「Ingame」「Landed」「Everymatch」",
     "[8] ➤ Perspective Snow\n↪ 「Ingame」「Landed」「Everymatch」",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if HM6 == nil then
 else
@@ -655,7 +655,7 @@ HM7 = gg.multiChoice({
     "[3] ➤ Jeep Car Speed\n↪ 「Ingame」「Landed」「Everymatch」",
     "[4] ➤ Jeep Car Mountain Climbing\n↪ 「Ingame」「Landed」「Everymatch」",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if HM7 == nil then
 else
@@ -677,7 +677,7 @@ ONC1 = gg.choice({
     "[1] ➤ Standard Combo\n↪ 「Lobby」「Landed」「Once」",
     "[2] ➤ Optional Combo\n↪ 「Ingame」「Landed」「Everymatch」",
     "______ || ﹤ BACK ﹥ || ______"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if ONC1 == nil then
 else
@@ -3487,7 +3487,7 @@ CHANGELOGCHEAT = gg.choice({
     "[5] ➤ READ THIS FEATURES EXPLAIN",
     "[6] ➤ WHAT'S NEWS IN THIS CHEAT",
     "__________ || ﹤ BACK ﹥ || __________"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if CHANGELOGCHEAT == 1 then ACTTRUEBYPASS() end
 if CHANGELOGCHEAT == 2 then ACTWHCOLOR() end
@@ -3512,7 +3512,7 @@ print([[
 (*) The last your must press bypass now function in menu cheat.
 (*) Waiting bypass finished and enjoy your game.
 
-- Video : https://youtu.be/RWn8R5P9FDc
+- Video : https://youtu.be/ferryhan88
 
 ]])
 os.exit()
@@ -3613,7 +3613,7 @@ DEVELOPERSMENU = gg.choice({
     "[1] ➤ LIFT SIT DOWN AIM",
     "[2] ➤ LIFT SIT DOWN",
     "__________ || ﹤ BACK ﹥ || __________"
-}, nil, "♚ 【 iCreMythical VIP 】 ♚ v2.3 ©️ 2018")
+}, nil, "♚ 【 ferryhan88 VIP 】 ♚ v2.3 ©️ 2019")
 
 if DEVELOPERSMENU == 1 then LSD() end
 if DEVELOPERSMENU == 2 then LIFTW() end
@@ -3646,16 +3646,16 @@ end
 
 function EXIT()
 f, err = loadfile (filename)
-print("➠ YouTube  : iCreMythical VIP CHEAT")
-print("➠ Telegram : https://t.me/cahyosvn")
-print("➠ Donate   : https://paypal.me/cahyodp")
+print("➠ YouTube  : Ferryhan88")
+print("➠ Instagram : @ferryhan88")
+print("➠ Donate   : https://paypal.me/ferryhan88")
 print("\nAll of support :")
-print("@Pinto")
-print("@Cristian")
-print("@Brook")
-print("@Andy")
-print("@Chris")
-print("@Hang Chan")
+print("@DanaBot")
+print("@FerryhanDana")
+print("@Ferry")
+print("@Musa")
+print("@Array")
+print("@Salman")
 print("@All Member")
 print("\n➠ Thank you for so much.")
 os.exit()
@@ -3663,7 +3663,7 @@ end
 
 --END FUNCTION MENU--
 
-cs = "iCreMythical VIP"
+cs = "ferryhan88 VIP"
 while true do
 if gg.isVisible(true) then
 PRIVSCRIPT = 1
