@@ -1,4 +1,4 @@
-gg.alert("This is not perfect PMH script.\nits just 75% of the code.\nthanks to r00tsec\n\n- Alunite")
+gg.alert("This is not perfect PMH script.\nits just 75% of the code.\nthanks to r00tsec\n\n- Ferryhan88")
 function BP()
   gg.toast("Loading Bypass")
   gg.searchNumber("1.2F;1.8F:9::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
@@ -40,7 +40,7 @@ HM = gg.choice({
 	"\240\159\142\174 In Game Menu \240\159\142\174",
 	"\226\152\145 Test Functions \226\152\145",
 	"\240\159\164\148\239\184\143 Help \240\159\164\148",
-	"\240\159\152\163 Exit \240\159\152\163" }, nil, "☠☠☠PUBGMHACKS.ONLINE VIP☠☠☠") 
+	"\240\159\152\163 Exit \240\159\152\163" }, nil, "☠☠☠Ferryhan88.DanaBot VIP☠☠☠") 
 if HM == 1 then inLobby() end
 if HM == 2 then inGame() end
 if HM == 3 then testfunction() end
@@ -1121,7 +1121,7 @@ end
 
 
 function exitAndPrint()
-gg.toast("PUBGMHACKS.ONLINE")
+gg.toast("Ferryhan88.DanaBot")
 os.exit()
 end
 while true do
