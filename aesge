@@ -1,7 +1,7 @@
 gg.toast(os.date([[
 Today: %Y/%m/%d Time: %H:%M:%S
-www.youtube.com/c/ArsyahG]]))
-gg.toast("www.youtube.com/c/ArsyahG")
+www.youtube.com/c/Ferryhan88]]))
+gg.toast("my youtube.ferryhan88")
 
 function BPSS()
 gg.searchNumber("1.2F;1.8F:9::1", gg.TYPE_DOUBLE, false, gg.SIGN_EQUAL, 0, -1)
@@ -52,12 +52,12 @@ function HOME()
     "🔳[MENU] Game ",
     "🔳[MENU] One Click ",
     "❌🔚❌",
-    "📧 𝐀𝐫𝐬𝐲𝐚𝐡 𝐆 ",
+    "📧 Ferryhan88 ",
     "▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫ \n 🔎Update Info❗ \n▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫"  
   }, nil, [[
 ⏹⏹⏹⏹⏹⏹⏹⏹⏹⏹⏹⏹⏹⏹⏹    
-🔹🔹🔹🔹🗡 VIP ASG 0.7.5 🇮🇩🔹🔹🔹🔹
-⏹⏹⏹⏹⏹ @OrangBias4 ⏹⏹⏹⏹⏹
+🔹🔹🔹🔹🗡 VIP danaBot 0.7.5 🇮🇩🔹🔹🔹🔹
+⏹⏹⏹⏹⏹ @ferryhan88 ⏹⏹⏹⏹⏹
 ]])
   if HM == 1 then
     WNC()
@@ -2235,10 +2235,10 @@ end
 
 function MC()
   KR = gg.choice({
-    "\226\156\137\239\184\143 Telegram: @OrangBias4",
-    "\226\156\137\239\184\143 Instagram: @arsyah_g",
+    "\226\156\137\239\184\143 Telegram: @Ferryhan88",
+    "\226\156\137\239\184\143 Instagram: @Ferryhan88",
     "🔙"
-  }, nil, "Untuk mendapatkan Script VIP Hubungi saya(Arsyah G)")
+  }, nil, "Untuk mendapatkan Script VIP Hubungi saya(FerryhanDana)")
   if KR == 1 then
     MC()
   end
